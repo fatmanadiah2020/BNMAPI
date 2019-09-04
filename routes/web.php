@@ -13,4 +13,4 @@
 
 
 Route::get('/','GuzzleController@getRemoteData');
-Route::get('/base','GuzzleController@getRemoteData');
+Route::get('/base','GuzzleController@getRemoteData2');
